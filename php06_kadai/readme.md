@@ -4,3 +4,6 @@
 ２　工夫した点
 前回うまくいかなかった削除ボタンで最初のページに戻る問題を解決(いってつさんのおかげです)
 ユーザー登録時に画像も一緒に登録できる。
+
+3　url
+http://ivorywolf6.sakura.ne.jp/php06_kadai/bbs_login.php
